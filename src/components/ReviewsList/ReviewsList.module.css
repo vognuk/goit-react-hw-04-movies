@@ -1,0 +1,20 @@
+.list {
+  list-style: none;
+  padding: 30px;
+  margin: 0;
+}
+
+.item {
+}
+
+.title {
+  margin: 20px 0;
+}
+
+.content {
+ text-align: justify;
+  padding: 20px;
+  margin: 0;
+  color: black;
+  line-height: 1.5;
+}
